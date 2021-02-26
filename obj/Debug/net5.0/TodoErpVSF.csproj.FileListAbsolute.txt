@@ -404,8 +404,6 @@
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/TodoErpVSF.MvcApplicationPartsAssemblyInfo.cache
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/TodoErpVSF.RazorComponent.input.cache
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
-/home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
-/home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
@@ -417,8 +415,6 @@
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/TodoErpVSF.TagHelpers.output.cache
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/TodoErpVSF.RazorCoreGenerate.cache
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/Razor/App.razor.g.cs
-/home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
-/home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
 /home/tadeutorquato/projetos/TodoErpVSF/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
