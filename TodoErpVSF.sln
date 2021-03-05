@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoErpVSF", "TodoErpVSF.csproj", "{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,7 +14,24 @@ Global
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Debug|x64.Build.0 = Debug|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Debug|x86.Build.0 = Debug|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Release|x64.ActiveCfg = Release|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Release|x64.Build.0 = Release|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Release|x86.ActiveCfg = Release|Any CPU
+		{9B320DAD-CD83-43C6-A855-59EB51D5FC9E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8691AD9-C52F-42E3-B739-13E98E08EEA4}
 	EndGlobalSection
 EndGlobal
